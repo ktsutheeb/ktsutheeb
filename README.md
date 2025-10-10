@@ -21,5 +21,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ktsutheeb&" alt="ktsutheeb" /></p>
 
 ### 📊**Leetcode Stats**
-[![LeetCode Stats](https://leetcard.jacoblin.cool/sutheeb?theme=dark)](https://leetcode.com/sutheeb)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/ktsutheeb?theme=dark)](https://leetcode.com/ktsutheeb)
 ---
